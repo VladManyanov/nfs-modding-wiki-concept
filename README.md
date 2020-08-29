@@ -1,2 +1,3 @@
 # nfs-modding-wiki-concept
-A useful articles &amp; stuff for Need for Speed modding
+Storage for the useful modding (mainly, VLT) information, articles and stuff for Need for Speed games.
+Parts of this hub can be used with my credit (or the page author).
